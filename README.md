@@ -1,12 +1,14 @@
-### Hi there 👋
+# Assalamu-alaikum
+
+### I am a Student, Full-stack Developer, and a Logo Designer 💯🌟
 
 <!--
 **sazzadshopno/sazzadshopno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Django, Flutter, NodeJS
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
