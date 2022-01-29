@@ -1,7 +1,7 @@
 # Assalamu-alaikum
 
 [![Sazzad's github stats](https://github-readme-stats.vercel.app/api?username=sazzadshopno&show_icons=true)](https://github.com/sazzadshopno)
-
+[![Sazzad's most language used stats](https://github-readme-stats.vercel.app/api/top-langs?username=SazzadShopno&show_icons=true&locale=en)](https://github.com/sazzadshopno)
 
  ## Connect with me:
 
